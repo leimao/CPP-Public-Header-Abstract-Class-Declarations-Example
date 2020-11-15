@@ -22,8 +22,6 @@ $ cd app
 $ ./app
 Hello, I'm Bob. 
 Nice to meet you.
-$ ./app_
-app_failure  app_virtual  
 $ ./app_failure 
 Segmentation fault (core dumped)
 $ ./app_virtual 

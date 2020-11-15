@@ -1,4 +1,4 @@
-# CPP Public Header Abstract Class Declarations
+# CPP Public Header Abstract Class Declarations Example
 
 ## Introduction
 

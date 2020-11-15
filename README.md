@@ -1,8 +1,8 @@
-# CPP Public Header Abstract Class Declarations Example
+# C++ Public Header Abstract Class Declarations Example
 
 ## Introduction
 
-This is an example for showing how to use abstract class declarations in the public header file for hiding private methods and members.
+This is an example for showing how to use abstract class declarations in the C++ public header file for hiding private methods and members.
 
 ## Usages
 

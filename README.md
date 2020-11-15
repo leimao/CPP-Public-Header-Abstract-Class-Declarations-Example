@@ -9,16 +9,16 @@ This is an example for showing how to use abstract class declarations in the pub
 ### Build
 
 ```
-mkdir -p build
-cd build
-cmake ..
-make -j
+$ mkdir -p build
+$ cd build
+$ cmake ..
+$ make -j
 ```
 
 ### Execution
 
 ```
-cd app
+$ cd app
 $ ./app
 Hello, I'm Bob. 
 Nice to meet you.

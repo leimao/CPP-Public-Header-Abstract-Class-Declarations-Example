@@ -7,4 +7,5 @@ int main()
     std::string botName{"Bob"};
     IBot* bot = createBot(botName);
     bot->greet();
+    delete bot;
 }

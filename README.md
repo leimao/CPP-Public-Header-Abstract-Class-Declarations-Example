@@ -51,3 +51,7 @@ $ ./app_virtual
 Hello, I'm Bob. 
 Nice to meet you.
 ```
+
+## Reference
+
+* [Using C++ Abstract Class Declarations for Hiding Private Methods and Members](https://leimao.github.io/blog/CPP-Public-Header-Abstract-Class-Declarations/)
